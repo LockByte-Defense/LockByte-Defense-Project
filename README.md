@@ -8,6 +8,11 @@ Welcome to my Code Fellows 301 Final Solo Project: LockByte Defense!
  GitHub
   >Link: https://github.com/codefellows/seattle-ops-301d9/blob/main/class-15/project-guidelines.md 
 
+# Project Team Agreement:
+
+Google Docs
+ >Link: https://docs.google.com/document/d/1xgvMRwkF-2LVik1fYnzq6mPFmKy7IuZ_SyOCBYMEzXQ/edit?usp=sharing 
+
 # Project Management Tool:
 
 Trello
@@ -16,7 +21,7 @@ Trello
 # Project Presentation Document:
 
 Google Docs
-  >Link: https://docs.google.com/document/d/1xgvMRwkF-2LVik1fYnzq6mPFmKy7IuZ_SyOCBYMEzXQ/edit?usp=sharing
+  >Link: https://docs.google.com/presentation/d/1tRnogYy7RhLMfUEQMox5EIiN_vPk3rOrrKiRXhW4PgQ/edit?usp=sharing 
 
 
 # Project Presentation Recording:
