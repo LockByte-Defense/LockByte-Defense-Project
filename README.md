@@ -28,11 +28,17 @@ Google Docs
 Google Docs
  >Link: https://docs.google.com/document/d/1INXtYcF_mWLUg7_Lh3b3LzElaY-EuNpO5aGFCOEdR-g/edit?usp=sharing 
 
+# Project SOPs:
+
+PDF
+ >[Project SOPs.pdf](https://github.com/LockByte-Defense/LockByte-Defense-Project/files/13055761/Project.SOPs.pdf)
+
 
 # Project Management Tool:
 
 Trello
   >Link: https://trello.com/b/rChl1sNE/lockbyte-defense  
+
 
 # Project Presentation Document:
 
