@@ -8,10 +8,26 @@ Welcome to my Code Fellows 301 Final Solo Project: LockByte Defense!
  GitHub
   >Link: https://github.com/codefellows/seattle-ops-301d9/blob/main/class-15/project-guidelines.md 
 
-# Project Team Agreement:
+# Project Team Agreement (Prep #1):
 
 Google Docs
  >Link: https://docs.google.com/document/d/1xgvMRwkF-2LVik1fYnzq6mPFmKy7IuZ_SyOCBYMEzXQ/edit?usp=sharing 
+
+# Project Preparations (Prep #2):
+
+Google Docs
+ >Link: https://docs.google.com/document/d/1B95tYE3Iikhi79w-mGF4-uxf9AimnIfNaPihUUcIDfI/edit?usp=sharing 
+
+# Repo and Tooling (Prep #3):
+
+Google Docs
+ >Link: https://docs.google.com/document/d/1yPRdlE24p0sZQZZRKZi2DbdFntOElJ4JOpRl7LAEDt0/edit?usp=sharing 
+
+# Map Project Requirements (Prep #4):
+
+Google Docs
+ >Link: https://docs.google.com/document/d/1INXtYcF_mWLUg7_Lh3b3LzElaY-EuNpO5aGFCOEdR-g/edit?usp=sharing 
+
 
 # Project Management Tool:
 
