@@ -56,14 +56,19 @@ Amleset Tesfamariam
 # Project Topology Visuals:
 
 Draw.io
-  >RADIUS/Captive Portal Topology: <img width="283" alt="Screen Shot 2023-10-20 at 1 08 45 AM" src="https://github.com/LockByte-Defense/LockByte-Defense-Project/assets/139098353/e3270b27-6743-4be0-82f2-41fb70ce4315">
+ >RADIUS/Captive Portal Topology:
+  ><img width="283" alt="Screen Shot 2023-10-20 at 1 08 45 AM" src="https://github.com/LockByte-Defense/LockByte-Defense-Project/assets/139098353/e3270b27-6743-4be0-82f2-41fb70ce4315">
 
-  >Domain Controller Topology: <img width="458" alt="Screen Shot 2023-10-20 at 1 01 06 AM" src="https://github.com/LockByte-Defense/LockByte-Defense-Project/assets/139098353/b6f5ff98-23c5-4128-88c9-66e2da0e0958">
+ >Domain Controller Topology:
+  ><img width="458" alt="Screen Shot 2023-10-20 at 1 01 06 AM" src="https://github.com/LockByte-Defense/LockByte-Defense-Project/assets/139098353/b6f5ff98-23c5-4128-88c9-66e2da0e0958">
 
-  >Active Directory Topology: <img width="549" alt="Screen Shot 2023-10-20 at 12 58 20 AM" src="https://github.com/LockByte-Defense/LockByte-Defense-Project/assets/139098353/49b26447-fd4e-4b89-a2ee-978f22398556">
+ >Active Directory Topology:
+  ><img width="549" alt="Screen Shot 2023-10-20 at 12 58 20 AM" src="https://github.com/LockByte-Defense/LockByte-Defense-Project/assets/139098353/49b26447-fd4e-4b89-a2ee-978f22398556">
 
-  >Windows Server Topology: <img width="485" alt="Screen Shot 2023-10-20 at 1 03 52 AM" src="https://github.com/LockByte-Defense/LockByte-Defense-Project/assets/139098353/6eb7d052-3dad-4f52-be88-4824dfebae2b">
+ >Windows Server Topology:
+  ><img width="485" alt="Screen Shot 2023-10-20 at 1 03 52 AM" src="https://github.com/LockByte-Defense/LockByte-Defense-Project/assets/139098353/6eb7d052-3dad-4f52-be88-4824dfebae2b">
 
-  >VPN Tunnel Topology: <img width="467" alt="Screen Shot 2023-10-20 at 12 50 37 AM" src="https://github.com/LockByte-Defense/LockByte-Defense-Project/assets/139098353/f53bc43f-46cc-48b4-932b-80170ff49d95">
+ >VPN Tunnel Topology:
+  ><img width="467" alt="Screen Shot 2023-10-20 at 12 50 37 AM" src="https://github.com/LockByte-Defense/LockByte-Defense-Project/assets/139098353/f53bc43f-46cc-48b4-932b-80170ff49d95">
 
 
