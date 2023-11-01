@@ -49,7 +49,7 @@ Google Docs
 # Project Presentation Recording:
 
 Zoom
-  >Link: 
+  >Link: https://zoom.us/rec/share/k0ChSR09m3aAS12h3vUVuGRyYMIVWUil1PsXqoc2UiVE1LvxK6G72CdS5tzEVPYV.AfcZfDGIKiokOoDV 
 
 
 # Project Members:
